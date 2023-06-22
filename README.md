@@ -3,11 +3,12 @@
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" style="display: inline-block; vertical-align: middle;"/> Sobre mi:
-- 👨‍💼 Me llamo Exequiel Bobruk y tengo 23 años
-- 🏦 Desarrollador front-end
+- 👨‍💼 Me llamo Exequiel Bobruk y tengo 23 años.
+- 🏦 Desarrollador front-end.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 Estudiante de la licenciatura informatica en la Universidad de Quilmes
-- 📖 Actualmente estoy leyendo "The Algorithm Design Manual" de Skiena
+- 📝 Estudiante de la licenciatura informatica en la Universidad de Quilmes.
+- 📖 Actualmente estoy leyendo "The Algorithm Design Manual" de Skiena.
+- 🕹️ Hobbies: CodeWars, Desarrollo de juegos y 📖 
 - 💻 Tecnologias:
 
 <p align="center">
