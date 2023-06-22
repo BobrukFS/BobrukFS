@@ -47,6 +47,12 @@
   
 </div>
 
+<div align="center" >
+
+<a href="https://bobrukfs.github.io/Portafolio/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-%230077B5?style=for-the-badge&logo=microsoftoffice&logoColor=bf91f3&labelColor=1a1b27&color=1a1b27" target="_blank" width="250" height="50"></a>
+      
+</div>
+ 
 
 </div>
 
