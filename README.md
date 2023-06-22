@@ -67,7 +67,15 @@
 
 <div align="center" >
       
-<a  href="https://www.linkedin.com/in/exequiel-bobruk/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="95" /></a>
-
+  <a href = "mailto:bobrukfs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/exequiel-bobruk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+
+
+
+
+
+
+ 
