@@ -2,7 +2,7 @@
 
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" style="display: inline-block; vertical-align: middle;"/> Sobre mi:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" style="display: inline-block; vertical-align: middle;"/> Sobre mi:
 - 👨‍💼 Me llamo Exequiel Bobruk y tengo 23 años
 - 🏦 Desarrollador front-end
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -21,7 +21,7 @@
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" width="35" style="display: inline-block; vertical-align: middle;"/> Ultimos proyectos:
+## <img src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" width="35" style="display: inline-block; vertical-align: middle;"/> Ultimos proyectos:
 <div align="center"  >
  <div>    
    
@@ -49,6 +49,7 @@
 
 <div align="center" >
 
+### Mas proyectos en mi:
 <a href="https://bobrukfs.github.io/Portafolio/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-%230077B5?style=for-the-badge&logo=microsoftoffice&logoColor=bf91f3&labelColor=1a1b27&color=1a1b27" target="_blank" width="250" height="50"></a>
       
 </div>
@@ -57,7 +58,7 @@
 </div>
 
 ---
-### <img src='https://cdn-icons-png.flaticon.com/512/432/432548.png' width='35' style="display: inline-block; vertical-align: middle;"/> Estadisticas de mi github:
+## <img src='https://cdn-icons-png.flaticon.com/512/432/432548.png' width='35' style="display: inline-block; vertical-align: middle;"/> Estadisticas de mi github:
 
 <div align="center">
       
@@ -69,12 +70,12 @@
 
 ---
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFhejI4aGh3djFldWlicnN6aHppdWo2NGc5cGhlc2llNG9ta243ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8mvObIgaUbOQKQnIAQ/giphy.gif" width='35' style="display: inline-block; vertical-align: middle;"/> Contacto:
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFhejI4aGh3djFldWlicnN6aHppdWo2NGc5cGhlc2llNG9ta243ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8mvObIgaUbOQKQnIAQ/giphy.gif" width='35' style="display: inline-block; vertical-align: middle;"/> Contacto:
 
 <div align="center" >
       
-  <a href = "mailto:bobrukfs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/exequiel-bobruk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:bobrukfs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" ></a>
+  <a href="https://www.linkedin.com/in/exequiel-bobruk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
 
 </div>
 
