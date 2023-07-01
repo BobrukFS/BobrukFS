@@ -38,7 +38,7 @@
 
 <div>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobrukFS&repo=Proyectos-Frontend&theme=tokyonight&text_color=ffffff)](https://github.com/BobrukFS/Portafolio)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobrukFS&repo=Proyectos-Frontend&theme=tokyonight&text_color=ffffff)](https://github.com/BobrukFS/Proyectos-Frontend)
   
 </div>
 
