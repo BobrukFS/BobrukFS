@@ -44,7 +44,7 @@
 
 <div>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobrukFS&repo=Portafolio&theme=tokyonight&text_color=ffffff)](https://github.com/BobrukFS/Portafolio)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobrukFS&repo=Web-Clima&theme=tokyonight&text_color=ffffff)](https://github.com/BobrukFS/Web-Clima)
   
 </div>
 
