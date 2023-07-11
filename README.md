@@ -6,7 +6,7 @@
 - 👨‍💼 Me llamo Exequiel Bobruk y tengo 23 años.
 - 🏦 Desarrollador front-end.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🏫 Estudiante de la licenciatura informatica en la Universidad de Quilmes .
+- 🏫 Estudiante de la licenciatura informatica en la Universidad de Quilmes.
 - 📖 Actualmente estoy leyendo "The Algorithm Design Manual" de Skiena y "Eloquent Javascript".
 - 🕹️ Hobbies: CodeWars y 📖 
 - 💻 Tecnologias:
