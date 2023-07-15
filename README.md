@@ -26,7 +26,7 @@
 <div align="center"  >
  <div>    
    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobrukFS&repo=Primer-portafolio&theme=tokyonight&text_color=ffffff)](https://github.com/BobrukFS/Portafolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobrukFS&repo=Portafolio&theme=tokyonight&text_color=ffffff)](https://github.com/BobrukFS/Portafolio)
    
    </div> 
 
