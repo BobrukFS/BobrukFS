@@ -12,12 +12,13 @@
 - 💻 Tecnologias:
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="55" height="55" alt="HTML"/> 
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55" alt="CSS"/>
-      <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="55" height="55" alt="JavaScript"/>
-      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="sass" width="55" height="55" alt="Sass"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" alt="Git"/> 
-      <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="55" height="55" alt="Bootstrap"/>
+          <a><img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"  ></a> 
+        <a><img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
+      <a><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+      <a><img src="https://img.shields.io/badge/-Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
+      <a><img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+      <a><img src="https://img.shields.io/badge/-SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"></a>
+      <a><img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </p>
 
 ---
