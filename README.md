@@ -78,7 +78,7 @@
       
   <a href = "mailto:bobrukfs@gmail.com"><img src="https://img.shields.io/badge/-bobrukfs@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" ></a>
   <a href="https://www.linkedin.com/in/exequiel-bobruk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
-    <a href="https://codepen.io/BobrukFS" target="_blank"><img src="https://img.shields.io/badge/-CodePen-%23333?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" ></a> 
+  
 
 </div>
 
