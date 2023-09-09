@@ -1,5 +1,5 @@
 # Hola a todos! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-
+<img src="https://i.postimg.cc/ZnNqhXQJ/Frame-1-1.png"/>
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" style="display: inline-block; vertical-align: middle;"/> Sobre mi:
@@ -43,11 +43,7 @@
   
 </div>
 
-<div>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobrukFS&repo=Web-Clima&theme=tokyonight&text_color=ffffff)](https://github.com/BobrukFS/Web-Clima)
-  
-</div>
+
 
 <div align="center" >
 
