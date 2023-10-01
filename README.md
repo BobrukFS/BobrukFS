@@ -33,7 +33,7 @@
 
    <div>
      
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobrukFS&repo=Fundacion-Pescar-y-Digitalers&theme=tokyonight&text_color=ffffff)](https://github.com/BobrukFS/Fundacion-Pescar-y-Digitalers)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobrukFS&repo=Fundacion-Pescar-Digitalers-CodoACodo&theme=tokyonight&text_color=ffffff)](https://github.com/BobrukFS/Fundacion-Pescar-Digitalers-CodoACodo)
      
    </div>
 
