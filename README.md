@@ -7,7 +7,7 @@
 - 🏦 Desarrollador Full Stack.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🏫 Estudiante de la licenciatura informatica en la Universidad de Quilmes.
-- 📖 Actualmente estoy leyendo "The Algorithm Design Manual" de Skiena y "Eloquent Javascript".
+- 📖 Actualmente estoy leyendo "The Algorithm Design Manual" de Skiena.
 - 🕹️ Hobbies: CodeWars y 📖 
 - 💻 Tecnologias:
 
