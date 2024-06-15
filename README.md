@@ -3,8 +3,9 @@
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" style="display: inline-block; vertical-align: middle;"/> Sobre mi:
-- 👨‍💼 Me llamo Exequiel Bobruk y tengo 23 años.
-- 🏦 Desarrollador Full Stack.
+- 👨‍💼 Me llamo Exequiel Bobruk y tengo 24 años.
+- 🏦 Actualmente me encuentro trabajando como software engineer en Seidor Analytics
+- Desarrollador Full Stack.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🏫 Estudiante de la licenciatura informatica en la Universidad de Quilmes.
 - 📖 Actualmente estoy leyendo "The Algorithm Design Manual" de Skiena.
