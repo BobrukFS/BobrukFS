@@ -23,6 +23,7 @@
       <a><img src="https://img.shields.io/badge/-Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind Css"></a>
       <a><img src="https://img.shields.io/badge/-NodeJS-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"></a>
       <a><img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre SQL"></a>
+      <a><img src="https://img.shields.io/badge/-GraphQl-%23E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"></a>
       <a><img src="https://img.shields.io/badge/-Python-%234169E1?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
       <a><img src="https://img.shields.io/badge/-Django-%23339933?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
       <a><img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
