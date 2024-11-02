@@ -4,11 +4,11 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" style="display: inline-block; vertical-align: middle;"/> Sobre mi:
 - 👨‍💼 Me llamo Exequiel Bobruk y tengo 24 años.
-- 🏦 Actualmente me encuentro trabajando como software engineer en Seidor Analytics
+- 🏦 Actualmente trabajo como software engineer en Seidor analytics.
 - Desarrollador Full Stack.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🏫 Estudiante de la licenciatura informatica en la Universidad de Quilmes.
-- 📖 Actualmente estoy leyendo "The Algorithm Design Manual" de Skiena.
+- 📖 Actualmente estoy leyendo "The Algorithm Design Manual" de Skiena e Ingenieria de Software de Sommerville.
 - 🕹️ Hobbies: CodeWars y 📖 
 - 💻 Tecnologias:
 
@@ -24,11 +24,11 @@
       <a><img src="https://img.shields.io/badge/-Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind Css"></a>
       <a><img src="https://img.shields.io/badge/-NodeJS-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"></a>
       <a><img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre SQL"></a>
+      <a><img src="https://img.shields.io/badge/-PHP-%23563D7C?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
       <a><img src="https://img.shields.io/badge/-GraphQl-%23E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"></a>
       <a><img src="https://img.shields.io/badge/-Python-%234169E1?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
       <a><img src="https://img.shields.io/badge/-Django-%23339933?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-      <a><img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-
+      <a><img src="https://img.shields.io/badge/-Java-%23FFF?style=for-the-badge&logo=java&logoColor=black" alt="Java"></a>
 </p>
 
 ---
